@@ -1,0 +1,88 @@
+img {
+  max-width: 500px;
+  max-height: 500px;
+}
+
+body {
+  background-image: url("https://media-assets.wired.it/photos/615c431d9225e1e8fab7e2f5/1:1/w_2578,h_2578,c_limit/le_50_migliori_locandine_cinematografiche_7672.jpg");
+  background-size: cover;
+  background-repeat: repeat-x;
+  color: whitesmoke;
+}
+
+header {
+  display: flex;
+}
+
+footer {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  list-style-type: none;
+  color: white;
+}
+
+blockquote {
+  background-color: rgba(255, 255, 255, 0);
+  color:whitesmoke;
+  font-style:oblique;
+  font-weight:bold;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0);
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.centercarousel {
+  margin: auto;
+  width: 20%;
+}
+
+.card-header {
+  color: whitesmoke;
+  
+}
+
+.dropdown {
+  margin: 30%;
+
+}
+
+.btn-secondary {
+  background-color: rgba(255, 255, 255, 0);
+  border-color: rgba(255, 255, 255, 0);
+}
+
+.dropdown-menu {
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.dropdown-item {
+  color: antiquewhite;
+}
+
+.btn-primary {
+  background-color: rgba(255, 255, 255, 0);
+  border-color: rgba(255, 255, 255, 0);
+}
